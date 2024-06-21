@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: soon
 - Live Site URL: https://zoumushi.github.io/qr/
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-with-vanilla-html-and-css-S8wgRO777F <!-- Wow this link is so ugly -->
 
 ## My process
 
